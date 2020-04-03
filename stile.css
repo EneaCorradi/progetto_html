@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
+h3{
+  margin: 20px 20px 20px 10px;
+  font-size: 40px;
+  color: #357EC7;
+}
+p{
+  margin: 10px;
+}
+hr{
+  border: 2px solid #000000;
+  background-color: #000;
+}
+.name{
+  margin-top: 50px;
+  font-size: 90px;
+  font-weight: bold;
+  color: #357EC7;
+}
+.font{
+  font-size: 20px;
+}
+.list{
+  margin-left: 40px;
+}
+.photo{
+  margin-top: 50px;
+}
+.contenitore-header{
+  background-color: #FFF;
+  display: flex;
+  justify-content: center;
+  height: 300px;
+}
+.header {
+  font-size: 50px;
+  width: 900px;
+  height: 250px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.post{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 700px;
+  margin-top: 30px;
+}
+.post strong{
+  font-size: 22px;
+}
+.up{
+  margin-top: 75px;
+}
+.presentation{
+  border: 1px solid #808080;
+  background-color: #FFF;
+  width: 700px;
+  height: 260px;
+  margin-top: 70px;
+  margin-bottom: 150px;
+  border-radius: 10px;
+}
+.expirience{
+  border: 1px solid #808080;
+  background-color: #FFF;
+  width: 700px;
+  height: 300px;
+  margin-bottom: 150px;
+  border-radius: 10px;
+}
+.object{
+  border: 1px solid #808080;
+  background-color: #FFF;
+  width: 700px;
+  height: 210px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.grosso{
+  border: 1px solid #FFF;
+  width: 1300px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+.contact{
+  width: 300px;
+  border-radius: 10px;
+  font-size: 18px;
+  height: 260px;
+  align-items: flex-start;
+}
+.contact h3{
+  font-size: 35px;
+}
+.piu{
+  display: flex;
+  justify-content: center;
+  background-color: #FFF;
+}
+.click{
+  margin-left: 28px;
+  margin-bottom: 30px;
+}
+.click a{
+  margin-left: 5px;
+  font-weight: bold;
+}
